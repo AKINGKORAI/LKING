@@ -1,5 +1,5 @@
 # LKING
-git clone --depth=1 https://github.com/Hannan-404/LKING
+git clone --depth=1 https://github.com/AKINGKORAI/LKING
 cd LKING
 chmod 777 LKINGOP
 ./LKINGOP
